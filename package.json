@@ -1,0 +1,25 @@
+{
+  "name": "drone",
+  "version": "0.0.1",
+  "description": "first test flight",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjaybalaks/testdrone"
+  },
+  "keywords": [
+    "testdrone"
+  ],
+  "author": "Sanjay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaybalaks/testdrone/issues"
+  },
+  "homepage": "https://github.com/sanjaybalaks/testdrone"
+}
